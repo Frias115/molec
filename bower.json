@@ -1,0 +1,10 @@
+{
+  "name": "molec",
+  "version": "0.0.0",
+  "authors": [
+    ""
+  ],
+  "dependencies": {
+    "phaser": "*"
+  }
+}
